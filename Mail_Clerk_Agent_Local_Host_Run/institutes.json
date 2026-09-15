@@ -1,0 +1,20 @@
+[
+  {
+    "institute_id": "INST_FINANCE",
+    "name": "Finance & Billing Department",
+    "contact_email": "finance@company.com",
+    "keywords": ["invoice", "payment", "receipt", "billing", "reimbursement"]
+  },
+  {
+    "institute_id": "INST_HR",
+    "name": "Human Resources",
+    "contact_email": "hr@company.com",
+    "keywords": ["payroll", "vacation", "onboarding", "benefits", "policy"]
+  },
+  {
+    "institute_id": "INST_IT_SUPPORT",
+    "name": "IT Helpdesk",
+    "contact_email": "support@company.com",
+    "keywords": ["password", "hardware", "software", "access", "bug"]
+  }
+]
